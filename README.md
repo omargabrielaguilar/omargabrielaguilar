@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Gabriel</h1>
 <h3 align="center">A indie hacker and laravel developer from Peru</h3>
 
-- 🔭 I’m currently working on [lvboil](https://github.com/omargabrielaguilar/lvboil)
+- 🔭 I’m currently working on [awsx](https://github.com/omargabrielaguilar/awsx)
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Redis**
 
