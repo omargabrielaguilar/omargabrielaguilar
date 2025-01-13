@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Gabriel</h1>
-<h3 align="center">Ssr. Backend Developer | Laravel Ecosystem Expert | API Architect | Queues & Performance Optimization</h3>
+<h3 align="center">Ssr. Backend Developer | Laravel Specialist | API Architect | Queues & Performance Optimization</h3>
 
 - 🔭 I’m currently working on [AdminFácil](https://github.com/omargabrielaguilar/awsx) and building scalable Laravel applications
 
