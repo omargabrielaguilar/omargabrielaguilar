@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Laravel](https://github.com/laravel/laravel) or other open-source Laravel projects
 
-- 💬 Ask me about **Laravel, Livewire, TALL stack, API development**
+- 💬 Ask me about **Laravel, Livewire, Vue.js, Typescript, API development**
 
 - 📫 How to reach me **omareegab@gmail.com**
 
