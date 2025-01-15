@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Gabriel</h1>
 <h3 align="center">Ssr. Backend Developer | Laravel Specialist | API Architect | Queues & Performance Optimization</h3>
 
-- 🔭 I’m currently working on [AdminFácil](https://github.com/omargabrielaguilar/awsx) and building scalable Laravel applications
-
 - 🌱 I’m currently specializing in **Laravel packages, queues, multi-tenancy, and API development**
 
 - 👯 I’m looking to collaborate on [Laravel](https://github.com/laravel/laravel) or other open-source Laravel projects
