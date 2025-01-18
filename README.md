@@ -7,7 +7,7 @@
 ## 🚀 Acerca de mí  
 - 🌍 Ubicación: Perú 🇵🇪  
 - 🎯 Enfoque profesional: Desarrollo de backend, microservicios y arquitecturas escalables.  
-- 📚 Pasión por aprender constantemente y colaborar en proyectos open source.  
+- 📚 Pasión por aprender constantemente y colaborar en proyectos open source => Golang || C || C# || PHP.  
 - 💡 Objetivo: Contribuir a proyectos innovadores y trabajar con tecnologías de vanguardia.
 - 🌍 Ingles B2, Español Nativo
 
