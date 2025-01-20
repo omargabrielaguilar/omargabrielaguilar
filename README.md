@@ -1,6 +1,6 @@
 # 💻 Omar Gabriel Aguilar
 
-👋 ¡Hola! Soy un **Desarrollador Backend** apasionado con experiencia en **.NET Core** y **Laravel**. Me encanta aprender nuevas tecnologías, resolver problemas complejos y crear soluciones escalables que generen impacto. 🚀  
+👋 ¡Hola! Soy un **Desarrollador Backend** apasionado con experiencia en **.NET Core** y **Laravel**
 
 ---
 
