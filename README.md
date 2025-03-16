@@ -1,4 +1,4 @@
-# 🛠️ Software Developer | Neovim Enthusiast
+# 🛠️ Software Developer | Neovim enthusiast
 
 Lately, I’ve been writing Go and PHP, tweaking Neovim configs
 
@@ -14,5 +14,3 @@ Currently grinding code, lifting weights, and occasionally touching grass.
 - **Twitter/X:** If I ever decide to post  
 - **Email:** Probably in my commits  
 
-☕ If you like what I do, buy me a coffee (or a Neovim plugin idea).  
-⚡ Fun fact: I probably spend more time inside `:q!` than outside.  
