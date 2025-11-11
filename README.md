@@ -10,29 +10,30 @@ Passionate about **computer science & programming**, currently focused on design
 ## 🛠️ Core Technologies
 
 ### **Backend**
-- **NestJS** (main stack)
-- Express.js
-- TypeScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="20"/> **NestJS** (main stack)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript
 - Microservices architecture
 - Message brokers (Kafka / RabbitMQ)
 
 ### **Frontend**
-- Next.js
-- React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React
 
 ### **Databases**
-- PostgreSQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL
 - Prisma & TypeORM
-- MongoDB
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB
 
 ### **DevOps / Infra**
-- Docker
-- AWS (EC2, S3, Lambda, etc.)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> AWS (EC2, S3, Lambda, etc.)
 - CI/CD
 
 ### **Other Experience (Secondary)**
 - Java + Spring Boot
-- Laravel + Php 8.4+
+- Laravel + PHP 8.4+
+
 
 ---
 
