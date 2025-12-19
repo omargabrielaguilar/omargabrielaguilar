@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Omar Gabriel aka 'biignoisee'
-## VILT Developer (Vue • Inertia.js • Laravel • Tailwind)
+# Hi, I'm Omar Gabriel aka 'biignoisee'
+## VILT Developer (Vue • Inertia. js • Laravel • Tailwind)
 
-I build modern, fast, and clean web applications using the **VILT stack**.  
+I build modern, fast, and clean web applications using the **VILT stack**.   
 My focus is creating products that feel smooth, load fast, and are structured well enough to scale without turning into spaghetti code.
 
-I’ve spent the last **3+ years** working as a backend dev (Laravel/PHP), and now I'm doubling down on becoming a **full-on indie hacker** — building on the internet, shipping fast, and helping clients launch products that actually make money.
+I've spent the last **3+ years** working as a backend dev (Laravel/PHP), and now I'm doubling down on becoming a **full-on indie hacker** — building on the internet, shipping fast, and helping clients launch products that actually make money. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **VILT / Full Stack**
 - **Vue 3** (Composition API, Pinia)  
@@ -44,7 +44,7 @@ I’ve spent the last **3+ years** working as a backend dev (Laravel/PHP), and n
 
 ---
 
-## 🚀 What I'm Doing Now
+## What I'm Doing Now
 - Building apps and tools as an **indie hacker**  
 - Doing **freelance work** for clients who need clean, scalable apps  
 - Improving system design, architecture, and full-stack skills  
@@ -54,6 +54,6 @@ I love building things on the internet — simple as that.
 
 ---
 
-## 📫 Contact
+## Contact
 - **Email:** omareegab@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/omargabrielaguilar
